@@ -3,3 +3,4 @@ Prerequisite
 dnf install portaudio-devel -y
 pip3 install pyaudio
 pip3 install pyttsx3
+pip3 install speechrecognition
